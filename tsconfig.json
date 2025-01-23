@@ -12,6 +12,6 @@
     "allowImportingTsExtensions": false,
     "noEmit": false
   },
-  "include": ["*.ts", "api", "examples/run.ts"],
+  "include": ["*.ts", "api", "examples/run.ts", "node-audiorecorder.d.ts"],
   "exclude": ["node_modules", "dist"]
 }
